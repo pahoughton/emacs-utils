@@ -16,6 +16,7 @@ hide = @
 elisp_sources	=				\
         ascii-table.el				\
         cobol-mode.el				\
+	dockerfile-mode.el			\
         find-executable.el			\
         find-header.el				\
         find-up-dir.el				\
@@ -24,7 +25,9 @@ elisp_sources	=				\
         timestamp.el				\
         php-mode.el				\
         puppet-mode.el				\
+	mediawiki.el				\
 	markdown-mode.el			\
+	s.el					\
         todo-mode.el				\
 	xrdb-mode.el				\
 	yaml-mode.el
