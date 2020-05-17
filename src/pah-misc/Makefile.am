@@ -25,6 +25,7 @@ elisp_sources	=				\
         timestamp.el				\
         php-mode.el				\
         puppet-mode.el				\
+	mediawiki.el				\
 	markdown-mode.el			\
 	s.el					\
         todo-mode.el				\
